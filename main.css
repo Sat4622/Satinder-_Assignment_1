@@ -1,0 +1,27 @@
+
+.parent_table
+{
+    border: 5px solid seagreen;
+    border-radius: 20px;
+}
+.list_cart_item
+{
+    background-origin: content-box;
+}
+.Items
+{
+    border: 2px solid tan;
+}
+.checkout
+{
+   text-align : center; 
+}
+#cart_Total
+{
+    text-align: right;
+}
+.Headings
+{
+    background-color:beige;
+    text-align: center;
+}
